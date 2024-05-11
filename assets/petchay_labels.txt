@@ -1,0 +1,4 @@
+Alternaria_Leaf_Spot
+Bacterial_Spot
+Healthy_Petchay
+Undefined
