@@ -187,4 +187,10 @@ Christian Barbosa - [My Facebook](https://www.facebook.com/ChanNotDiff/) - chris
 
 My Project Link: [Petchay Doctor](https://github.com/lightdarkmaster/petchay_doctor)
 
+## My Portfolio:
+
+My Portfolio: [Christian Barbosa](https://barbosachristian.github.io/)
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+# || - - - - - - N O T H I N G - - - - - - F O L L O W S - - - - - - ||
