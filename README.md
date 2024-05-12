@@ -180,20 +180,12 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-<!-- LICENSE -->
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 <!-- CONTACT -->
 
 ## Contact
 
-Your Name - [My Facebook](https://www.facebook.com/ChanNotDiff/) - christian.barbosa05222001@gmail.com
+Christian Barbosa - [My Facebook](https://www.facebook.com/ChanNotDiff/) - christian.barbosa05222001@gmail.com
 
-Project Link: [Petchay Doctor](https://github.com/lightdarkmaster/petchay_doctor)
+My Project Link: [Petchay Doctor](https://github.com/lightdarkmaster/petchay_doctor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
