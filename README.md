@@ -44,7 +44,7 @@ samples, guidance on mobile development, and a full API reference.
 petchay doctor AI Mobile Application
 > By: Christian Barbosa BSIT - Leyte Normal University (LNU)
 
-<--- >> git log: 08d454faae3add1386e9caf47f5795886aea3034 --!>
+<!-- >> git log: 08d454faae3add1386e9caf47f5795886aea3034 -->
 > <br/>
 > <br/>
 
