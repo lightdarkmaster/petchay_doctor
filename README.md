@@ -79,9 +79,7 @@ petchay doctor AI Mobile Application
 
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
+Petchay Doctor uses advanced algorithms to analyze factors such as Leaf Disease Detections, Recommendations, and treatment calculations to deliver tailored recommendations to users. By collecting data from users and continuously refining its recommendations, Petchay Doctor adapts to your unique gardening environment and preferences over time. Ready to embark on your gardening journey with Petchay Doctor? Simply download the app and start exploring the world of bok choy cultivation today!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
