@@ -118,11 +118,10 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Flutter][Flutter.dart]][flutter-url]
-* [![Android][Android]][Android-url]
-* [![Java][Java.java]][Java-url]
-* [![C++][C++.cpp]][C++-url]
-* [![C#][C.c]][C#-url]
+* Flutter Framework
+* Dart Programming Language
+* Python (for AI Model)
+* VS Code (IDE)
 
 
 
