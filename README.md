@@ -59,19 +59,19 @@ petchay doctor AI Mobile Application
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">project_title</h3>
+<h3 align="center">Petchay Doctor</h3>
 
   <p align="center">
-    project_description
+    Project Descriptions:
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lightdarkmaster/petchay_doctor"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/github_username/repo_name">View Demo</a>
+    <a href="https://github.com/lightdarkmaster/petchay_doctor">View Demo</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    <a href="https://github.com/lightdarkmaster/petchay_doctor">Report Bug</a>
     ·
-    <a href="https://github.com/github_username/repo_name/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+    <a href="https://github.com/lightdarkmaster/petchay_doctor">Request Feature</a>
   </p>
 </div>
 
@@ -118,14 +118,14 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Flutter][Flutter.dart]][flutter-url]
+* [![Android][Android]][Android-url]
+* [![Java][Java.java]][Java-url]
+* [![C++][C++.cpp]][C++-url]
+* [![C#][C.c]][C#-url]
+
+
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -150,14 +150,14 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/lightdarkmaster/petchay_doctor
    ```
-3. Install NPM packages
-   ```sh
-   npm install
+3. Install flutter dependencies
+   ```flutter pub get
+   flutter pub get
    ```
-4. Enter your API in `config.js`
-   ```js
+4. Enter your API in `main.dart`
+   ```dart
    const API_KEY = 'ENTER YOUR API';
    ```
 
@@ -222,7 +222,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/lightdarkmaster/petchay_doctor](https://github.com/lightdarkmaster/petchay_doctor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,7 +255,7 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
 [Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
+[flutter-url]: https://raw.githubusercontent.com/fluttercommunity/community/resources/banner.png
 [React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
 [React-url]: https://reactjs.org/
 [Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
