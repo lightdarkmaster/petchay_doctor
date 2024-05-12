@@ -192,8 +192,8 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 ## Contact
 
-Your Name - [@Facebook](https://www.facebook.com/ChanNotDiff/) - christian.barbosa05222001@gmail.com
+Your Name - [My Facebook](https://www.facebook.com/ChanNotDiff/) - christian.barbosa05222001@gmail.com
 
-Project Link: [https://github.com/lightdarkmaster/petchay_doctor](https://github.com/lightdarkmaster/petchay_doctor)
+Project Link: [Petchay Doctor](https://github.com/lightdarkmaster/petchay_doctor)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
