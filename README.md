@@ -21,4 +21,4 @@ samples, guidance on mobile development, and a full API reference.
 =======
 # petchay_doctor
 petchay doctor AI Mobile Application
->>>>>>> 08d454faae3add1386e9caf47f5795886aea3034
+> git log:  08d454faae3add1386e9caf47f5795886aea3034
