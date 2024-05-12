@@ -1,29 +1,7 @@
-## Documentations
-# run 'flutter pub get'
-# run 'flutter run'
-
-# bokchoydoctor
-
-A new Flutter project.
-
 ## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-=======
-# petchay_doctor
-petchay doctor AI Mobile Application
-> git log:  08d454faae3add1386e9caf47f5795886aea3034
-
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
+
 <a name="readme-top"></a>
 
 <br />
@@ -45,10 +23,31 @@ petchay doctor AI Mobile Application
     <a href="https://github.com/lightdarkmaster/petchay_doctor">Report Bug</a>
     ·
     <a href="https://github.com/lightdarkmaster/petchay_doctor">Request Feature</a>
+    <br/>
+<br/>
+    
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
+=======
+
+# petchay_doctor
+
+petchay doctor AI Mobile Application
+
+> git log: 08d454faae3add1386e9caf47f5795886aea3034
+> <br/>
+> <br/>
+
   </p>
 </div>
-
-
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -76,9 +75,8 @@ petchay doctor AI Mobile Application
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
+
 ## About The Project
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
@@ -87,23 +85,17 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 ### Built With
 
-* Flutter Framework
-* Dart Programming Language
-* Python (for AI Model)
-* VS Code (IDE)
-
-
-
+- Flutter Framework
+- Dart Programming Language
+- Python (for AI Model)
+- VS Code (IDE)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- GETTING STARTED -->
+
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
@@ -112,7 +104,8 @@ To get a local copy up and running follow these simple example steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* Install Flutter in your machine.
+
+- Install Flutter in your machine.
   ```sh
   'https://docs.flutter.dev/get-started/install'
   ```
@@ -130,14 +123,13 @@ This is an example of how to list things you need to use the software and how to
    ```
 4. Run the `main.dart`
    ```dart
-  flutter run
+   flutter run
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- USAGE EXAMPLES -->
+
 ## Usage
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
@@ -146,36 +138,34 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- ROADMAP -->
+
 ## Roadmap
 
 - [ ] Homepage
-    - [ ] App Descriptions
+  - [ ] App Descriptions
 - [ ] Petchay Doctor
-    - [ ] Detect Petchay Disease
-    - [ ] Provide Recommendations
+  - [ ] Detect Petchay Disease
+  - [ ] Provide Recommendations
 - [ ] Treatment Calculation
-    - [ ] Provide data needed for Fertilizer and Pesticides
+  - [ ] Provide data needed for Fertilizer and Pesticides
 - [ ] FAQ
-    - [ ] Commonly Ask Questions
+  - [ ] Commonly Ask Questions
 - [ ] Settings
-    - [ ] Dark Mode
-    - [ ] Notifications
-    - [ ] Security Status
-    - [ ] Profile
-    - [ ] Help and Feedbacks
-    - [ ] About 
-    - [ ] Sign out
+  - [ ] Dark Mode
+  - [ ] Notifications
+  - [ ] Security Status
+  - [ ] Profile
+  - [ ] Help and Feedbacks
+  - [ ] About
+  - [ ] Sign out
 
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTRIBUTING -->
+
 ## Contributing
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
@@ -191,18 +181,16 @@ Don't forget to give the project a star! Thanks again!
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- LICENSE -->
+
 ## License
 
 Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
-
 <!-- CONTACT -->
+
 ## Contact
 
 Your Name - [@Facebook](https://www.facebook.com/ChanNotDiff/) - christian.barbosa05222001@gmail.com
