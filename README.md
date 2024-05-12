@@ -1,4 +1,7 @@
-<<<<<<< HEAD
+## Documentations
+# run 'flutter pub get'
+# run 'flutter run'
+
 # bokchoydoctor
 
 A new Flutter project.
