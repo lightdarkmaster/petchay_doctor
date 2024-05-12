@@ -1,4 +1,4 @@
-## Getting Started
+## D o c u m e n t a t i o n
 
 <!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 
