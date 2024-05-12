@@ -15,7 +15,7 @@
   <p align="center">
     Project Descriptions:
     <br />
-    <a href="https://github.com/lightdarkmaster/petchay_doctor/releases/tag/Petchay_Doctor_v1.0.0"><strong>Download Petchay Doctor »</strong></a>
+    <a href="https://github.com/lightdarkmaster/petchay_doctor/releases/tag/Petchay_Doctor_v1.0.0"><strong>Download Petchay Doctor App Here.. »</strong></a>
     <br />
     <br />
     <a href="https://github.com/lightdarkmaster/">Light Dark Master</a>
