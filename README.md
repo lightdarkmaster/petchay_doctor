@@ -15,14 +15,14 @@
   <p align="center">
     Project Descriptions:
     <br />
-    <a href="https://github.com/lightdarkmaster/petchay_doctor"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/lightdarkmaster/petchay_doctor/releases/tag/Petchay_Doctor_v1.0.0"><strong>Download Petchay Doctor »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lightdarkmaster/petchay_doctor">View Demo</a>
+    <a href="https://github.com/lightdarkmaster/">Light Dark Master</a>
     ·
-    <a href="https://github.com/lightdarkmaster/petchay_doctor">Report Bug</a>
+    <a href="https://www.facebook.com/ChanNotDiff/">Report Bug</a>
     ·
-    <a href="https://github.com/lightdarkmaster/petchay_doctor">Request Feature</a>
+    <a href="https://www.facebook.com/ChanNotDiff/">Request Feature</a>
     <br/>
 <br/>
     
@@ -38,7 +38,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 
-# petchay_doctor
+# W E L C O M E   V I S I T O R S ! ! 
 
 petchay doctor AI Mobile Application
 
