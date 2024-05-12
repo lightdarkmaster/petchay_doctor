@@ -3,17 +3,17 @@ import 'package:bokchoydoctor/pages/Calculate.dart';
 import 'package:bokchoydoctor/pages/FAQ.dart';
 import 'package:bokchoydoctor/pages/Scanner.dart';
 import 'package:bokchoydoctor/pages/SettingsPage.dart';
-import 'package:bokchoydoctor/pages/homescreen.dart';
+import 'package:bokchoydoctor/pages/HomeScreen.dart';
 import 'package:flutter/material.dart';
 
-class Homepage extends StatefulWidget {
-  const Homepage({super.key, Key});
+class Navigation extends StatefulWidget {
+  const Navigation({super.key, Key});
 
   @override
   _HomepageState createState() => _HomepageState();
 }
 
-class _HomepageState extends State<Homepage> {
+class _HomepageState extends State<Navigation> {
   int _page = 0;
 
   @override
