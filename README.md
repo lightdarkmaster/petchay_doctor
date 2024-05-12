@@ -10,7 +10,7 @@
     <img src="https://github.com/lightdarkmaster/petchay_doctor/blob/main/assets/icon.jpg?raw=true" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">👨🏽‍⚕️ Petchay Doctor 👨🏽‍⚕️</h3>
+<h3 align="center"> Petchay Doctor 👨🏽‍⚕️</h3>
 
   <p align="center">
     Project Descriptions: 🕵🏽
@@ -39,7 +39,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 
-# ✦✦✦✪ W E L C O M E ! ! ✪✦✦✦
+# 🎊🎉🎊🎉🎊 W E L C O M E ! ! 🎊🎉🎊🎉🎊
 
 petchay doctor AI Mobile Application
 > By: Christian Barbosa BSIT - Leyte Normal University (LNU)
@@ -79,10 +79,10 @@ petchay doctor AI Mobile Application
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project 📱📱
+## About The Project 📱
 
 Petchay Doctor uses advanced algorithms to analyze factors such as Leaf Disease Status, Recommendations, and treatment calculations to deliver tailored recommendations to users. By collecting data from users and continuously refining its recommendations, Petchay Doctor adapts to your unique gardening environment and preferences over time. Ready to embark on your gardening journey with Petchay Doctor? Simply download the app and start exploring the world of bok choy cultivation today!
-> ahh basta na detect ine hiya sakit hit petchay tas nahatag recommendations base han results, na compute gihap ine kun pira ka kilo magagamit na fertilizer / pesticides depende kun pira ka hectares an tanoman. G? ok G!.
+> ahh basta na detect ine hiya sakit hit petchay tas nahatag recommendations base han results, na compute gihap ine kun pira ka kilo magagamit na fertilizer / pesticides depende kun pira ka hectares an tanoman. G? ok G!. 👍🏻
 
 <p align="right">(<a href="#readme-top"> ⬆️ back to top ⬆️ </a>)</p>
 
@@ -102,7 +102,7 @@ Petchay Doctor uses advanced algorithms to analyze factors such as Leaf Disease 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### 🏳️🏳️🏳️ Prerequisites 🏳️🏳️🏳️
 
 This is an example of how to list things you need to use the software and how to install them.
 
@@ -111,17 +111,17 @@ This is an example of how to list things you need to use the software and how to
   'https://docs.flutter.dev/get-started/install'
   ```
 
-### Installation
+### ⚒⚒ Installation ⚒⚒
 
-1. Clone the repo
+1. Clone the repo 📑
    ```sh
    git clone https://github.com/lightdarkmaster/petchay_doctor
    ```
-2. Install flutter dependencies
+2. Install flutter dependencies 💻
    ```flutter pub get
    flutter pub get
    ```
-3. Run the `main.dart`
+3. Run the `main.dart` 🏃🏽‍♂️
    ```dart
    flutter run
    ```
@@ -134,13 +134,13 @@ This is an example of how to list things you need to use the software and how to
 
 Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
 
-_For more examples, please refer to the [Documentation](https://example.com)_
+_For more examples, please refer to the [Documentation](https://example.com)_📑📋
 
 <p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
 <!-- ROADMAP -->
 
-## Application Features 👀
+## Application Features 💼
 
 - [ ] Homepage
   - [ ] App Descriptions
@@ -160,13 +160,13 @@ _For more examples, please refer to the [Documentation](https://example.com)_
   - [ ] About
   - [ ] Sign out
 
-See the [open issues](https://github.com/lightdarkmaster/petchay_doctor/issues/1) for a full list of proposed features (and known issues).
+See the 👀 [open issues](https://github.com/lightdarkmaster/petchay_doctor/issues/1) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
 <!-- CONTRIBUTING -->
 
-## Contributing
+## Contributing 🧑🏼‍⚖️
 
 Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
 
@@ -185,7 +185,7 @@ Don't forget to give the project a star! Thanks again!
 
 ## Contact
 
-Christian Barbosa - 👉 [My Facebook](https://www.facebook.com/ChanNotDiff/) - christian.barbosa05222001@gmail.com
+Christian Barbosa - 👉 [My Facebook](https://www.facebook.com/ChanNotDiff/) - christian.barbosa05222001@gmail.com 📧
 
 My Project Link: [Petchay Doctor](https://github.com/lightdarkmaster/petchay_doctor)
 
