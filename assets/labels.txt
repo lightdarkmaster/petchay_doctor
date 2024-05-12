@@ -1,4 +1,0 @@
-0 Healthy_Pechay
-1 Powdery_Mildew
-2 Bacterial_Soft_Rot
-3 Alternaria Black Spot
