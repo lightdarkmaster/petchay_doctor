@@ -10,19 +10,19 @@
     <img src="https://github.com/lightdarkmaster/petchay_doctor/blob/main/assets/icon.jpg?raw=true" alt="Logo" width="80" height="80">
   </a>
 
-<h3 align="center">Petchay Doctor</h3>
+<h3 align="center">👨🏽‍⚕️ Petchay Doctor 👨🏽‍⚕️</h3>
 
   <p align="center">
-    Project Descriptions:
+    Project Descriptions: 🕵🏽
     <br />
     <a href="https://github.com/lightdarkmaster/petchay_doctor/releases/tag/Petchay_Doctor_v1.0.0"><strong>Download Petchay Doctor App Here.. »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/lightdarkmaster/">Light Dark Master</a>
+    <a href="https://github.com/lightdarkmaster/">Light Dark Master 🧑🏽‍💻</a>
     ·
-    <a href="https://www.facebook.com/ChanNotDiff/">Report Bug</a>
+    <a href="https://www.facebook.com/ChanNotDiff/">Report Bug 🐞</a>
     ·
-    <a href="https://www.facebook.com/ChanNotDiff/">Request Feature</a>
+    <a href="https://www.facebook.com/ChanNotDiff/">Request Feature 🙋🏽‍♂️</a>
     <br/>
 <br/>
     
@@ -39,7 +39,7 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 =======
 
-# W E L C O M E ! ! 
+# ✦✦✦✪ W E L C O M E ! ! ✪✦✦✦
 
 petchay doctor AI Mobile Application
 > By: Christian Barbosa BSIT - Leyte Normal University (LNU)
@@ -79,25 +79,25 @@ petchay doctor AI Mobile Application
 
 <!-- ABOUT THE PROJECT -->
 
-## About The Project
+## About The Project 📱📱
 
 Petchay Doctor uses advanced algorithms to analyze factors such as Leaf Disease Status, Recommendations, and treatment calculations to deliver tailored recommendations to users. By collecting data from users and continuously refining its recommendations, Petchay Doctor adapts to your unique gardening environment and preferences over time. Ready to embark on your gardening journey with Petchay Doctor? Simply download the app and start exploring the world of bok choy cultivation today!
 > ahh basta na detect ine hiya sakit hit petchay tas nahatag recommendations base han results, na compute gihap ine kun pira ka kilo magagamit na fertilizer / pesticides depende kun pira ka hectares an tanoman. G? ok G!.
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top"> ⬆️ back to top ⬆️ </a>)</p>
 
-### Built With
+### 🔧🛠 Built With 🔧🛠
 
 - Flutter Framework
 - Dart Programming Language
 - Python (for AI Model)
 - VS Code (IDE)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
 <!-- GETTING STARTED -->
 
-## Getting Started
+## 🚩🚩🚩🚩 Getting Started 🚩🚩🚩🚩
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
@@ -126,7 +126,7 @@ This is an example of how to list things you need to use the software and how to
    flutter run
    ```
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
 <!-- USAGE EXAMPLES -->
 
@@ -136,11 +136,11 @@ Use this space to show useful examples of how a project can be used. Additional 
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
 <!-- ROADMAP -->
 
-## Application Features
+## Application Features 👀
 
 - [ ] Homepage
   - [ ] App Descriptions
@@ -162,7 +162,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 
 See the [open issues](https://github.com/lightdarkmaster/petchay_doctor/issues/1) for a full list of proposed features (and known issues).
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
 <!-- CONTRIBUTING -->
 
@@ -179,20 +179,20 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
 <!-- CONTACT -->
 
 ## Contact
 
-Christian Barbosa - [My Facebook](https://www.facebook.com/ChanNotDiff/) - christian.barbosa05222001@gmail.com
+Christian Barbosa - 👉 [My Facebook](https://www.facebook.com/ChanNotDiff/) - christian.barbosa05222001@gmail.com
 
 My Project Link: [Petchay Doctor](https://github.com/lightdarkmaster/petchay_doctor)
 
 ## My Portfolio:
 
-My Portfolio: [Christian Barbosa](https://barbosachristian.github.io/)
+My Portfolio: 👉👉[Christian Barbosa](https://barbosachristian.github.io/)👈👈
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
 # - - - - - - - N O T H I N G - - - -  F O L L O W S - - - - - - -
