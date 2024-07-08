@@ -125,6 +125,10 @@ This is an example of how to list things you need to use the software and how to
    ```dart
    flutter run
    ```
+4. Check the  app
+   ```dart
+   flutter_app now running..
+   ```
 
 <p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
