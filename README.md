@@ -187,6 +187,10 @@ Don't forget to give the project a star! Thanks again!
 4. Push to the Branch (`git push origin feature/AmazingFeature`)
 5. Open a Pull Request
 
+a. in Model side 
+1. you can train your model base on the notebook folder I created there are all the resources needed in a model side..
+2. train your AI model base on your own datasets.
+3. Explore..hahha nice 
 <p align="right">(<a href="#readme-top">⬆️ back to top ⬆️ </a>)</p>
 
 <!-- CONTACT -->
