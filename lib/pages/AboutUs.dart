@@ -107,3 +107,4 @@ class AboutUs extends StatelessWidget {
 }
 
 //End han code..
+//Soon add current version.
