@@ -1,0 +1,2 @@
+1. Navigate app using the side navbar.
+2. Scan upload the image or use the camera to scan leaf.
